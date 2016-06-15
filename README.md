@@ -9,6 +9,7 @@ Vagas disponíveis em https://github.com/stone-pagamentos/vagas/issues
 ### Cadastrando uma vaga
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga.
+Crie uma vaga clicando [aqui](https://github.com/stone-pagamentos/vagas/issues/new)!
 
 Exemplo: `[Rio de Janeiro] Desenvolvedor Android`
 
