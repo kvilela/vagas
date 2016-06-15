@@ -18,6 +18,3 @@ Adicione _labels_ contendo o nível de experiência desejada e a forma de contra
 #### Importante
 
 Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue assim que possível quando ela estiver finalizada. 
- 
-________
-
