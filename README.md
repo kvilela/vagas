@@ -1,18 +1,16 @@
-<p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
-</p>
+![StoneSDK](https://cloud.githubusercontent.com/assets/2567823/11539067/6300c838-990c-11e5-9831-4f8ce691859e.png)
 
-# FrontendBR Vagas
+# Stone Dev Vagas
 
-Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
+Espaço para a divulgação de vagas para desenvolvedores via **issues** do Github.
 
-Vagas disponíveis em https://github.com/frontendbr/vagas/issues
+Vagas disponíveis em https://github.com/stone-pagamentos/vagas/issues
 
 ### Cadastrando uma vaga
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga.
 
-Exemplo: `[São Paulo] Desenvolvedor Front-End`
+Exemplo: `[Rio de Janeiro] Desenvolvedor Android`
 
 Adicione _labels_ contendo o nível de experiência desejada e a forma de contração.
 
@@ -21,11 +19,4 @@ Adicione _labels_ contendo o nível de experiência desejada e a forma de contra
 Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue assim que possível quando ela estiver finalizada. 
  
 ________
-#### Repositórios da Front-End Brasil
 
-- [Fórum](https://github.com/frontendbr/forum)
-- [Eventos](https://github.com/frontendbr/eventos)
-- [Vagas](https://github.com/frontendbr/vagas)
-- [Poste mais!](https://github.com/frontendbr/poste-mais)
-- [Open Source](https://github.com/frontendbr/open-source)
-- [Sugestões](https://github.com/frontendbr/sugestoes)
