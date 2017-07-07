@@ -9,29 +9,25 @@ Escritório, Centro - Rio de Janeiro
 ## Benefícios
 
 - horário flexível
-- video games
-- snackbar dentro do escritório
-- trabalhe de bermuda e chinelo
+- ...
 - ...
 
 ## Requisitos
 
 **Obrigatórios:**
-- Pelo menos com 1 ano de experiência com Python
-- Conhecimentos em Django
+- ...
+- ...
 
 **Desejáveis:**
-- conhecimentos em Python3
-- curso na NASA
-- gostar de Star Wars
-- Superman nas horas vagas
+- ...
+- ...
 
 **Diferenciais:**
-- projetos opensource
+- ...
 
 ## Nossa empresa
 
-Aqui na Corporação ACME somos líderes em...
+Lorem Ipsum...
 
 ## Como se candidatar
 
